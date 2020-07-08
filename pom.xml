@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.doobo</groupId>
     <artifactId>openpdf-ivs</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>openpdf-ivs</name>
     <description>基于OpenPdf的ivs表意字体支持</description>
@@ -45,7 +43,7 @@
     </licenses>
 
     <scm>
-        <tag>master</tag>
+        <tag>v1.0</tag>
         <url>https://github.com/doobo/openpdf-ivs</url>
         <connection>scm:git:git@github.com:doobo/openpdf-ivs.git</connection>
         <developerConnection>scm:git:git@github.com:doobo/openpdf-ivs.git</developerConnection>
